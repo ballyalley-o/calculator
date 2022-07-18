@@ -52,12 +52,13 @@ grid-column: span 2;
 }
 
 
-.output .previous-o {
-    color: rgba(138, 134, 125, ..75);
+.output .previousO {
+    color: rgba(255, 255, 255, .50);
     font-size: 1.5rem;
 }
 
-.output .current-o {
+
+.output .currentO {
     color: white;
     font-size: 2.5rem;
 }
